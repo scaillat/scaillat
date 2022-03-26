@@ -62,5 +62,5 @@
 ## Contact me
 <div align="center">
   <a href="https://github.com/scaillat"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/scaillat"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/scaillat" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
